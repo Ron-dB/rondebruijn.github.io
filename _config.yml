@@ -1,0 +1,13 @@
+title: Ron de Bruijn
+description: Assistant Professor — Precision Mechatronics, TU/e
+url: https://rondebruijn.eu
+
+markdown: kramdown
+theme: null
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
